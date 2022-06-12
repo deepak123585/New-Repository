@@ -17,4 +17,19 @@ public class AppTest
         System.out.println("this is new code");
         
     }
+    
+    @Test
+    public void launchBrowser1()
+    {
+        System.out.println("launch browser1");
+        System.out.println("this is new code1");
+        
+    }
+    @Test
+    public void launchBrowser2()
+    {
+        System.out.println("launch browser2");
+        System.out.println("this is new code2");
+        
+    }
 }
